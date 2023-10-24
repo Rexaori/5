@@ -561,6 +561,7 @@ ${isSurender ? '' : ``}`.trim()
             break
             case 'osis':{
             	reply("Osis adalah organisasi gabut")
+            return
             }
             break
             //anime
